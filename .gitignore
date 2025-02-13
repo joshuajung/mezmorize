@@ -1,0 +1,5 @@
+.DS_Store
+/working
+/node_modules
+/.yarn
+/.env
